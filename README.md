@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageswarchedella&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nageswarchedella&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nageswarchedella&row=4&column=4)
   ![Nageswar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nageswarchedella&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
 <!--
