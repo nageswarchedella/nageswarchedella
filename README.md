@@ -6,6 +6,7 @@ I have 3 years of experience in developing web applications.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nageswarchedella&hide_progress=true)
 <!--
 ### Front-End Development
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
@@ -17,7 +18,7 @@ I have 3 years of experience in developing web applications.
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nageswarchedella&hide_progress=true)
+
 
 **nageswarchedella/nageswarchedella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
