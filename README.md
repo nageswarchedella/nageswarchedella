@@ -1,5 +1,5 @@
 ### Hi there 👋, I am a Software Engineer
-I have 3 years of experience in developing web applications using Ruby on Rails and MERN stack
+3 years of experience in developing web applications using Ruby on Rails and MERN stack
 ## 🛠️ Skills
 ### Languages
 ![ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
