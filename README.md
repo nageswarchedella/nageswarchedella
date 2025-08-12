@@ -1,5 +1,5 @@
 ### Hi there 👋, I am a Software Engineer
-4 years of experience in developing web applications using Ruby on Rails
+4+ years of experience in developing web applications using Ruby on Rails
 ## 🛠️ Skills
 ### Languages
 ![ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
